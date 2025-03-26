@@ -5,7 +5,7 @@ string3: .asciiz "Escreva o coeficiente: "
 string4: .ascii "Digite os limites do intervalo [a,b]\n" 
 string5: .asciiz "Digite o inicio do intervalo: "
 string6: .asciiz "Digite o final do intervalo: "
-string7: .asciiz "A raiz do polinomio é com precisão  "
+string7: .asciiz "A raiz do polinomio com precisão  "
 string8 :.asciiz " é: "
 new_line: .asciiz "\n"
 
